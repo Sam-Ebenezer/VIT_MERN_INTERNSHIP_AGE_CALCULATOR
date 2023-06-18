@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VIT_MERN_INTERNSHIP_AGE_CALCULATOR/static/css/main.30ea52ad.css",
+    "main.js": "/VIT_MERN_INTERNSHIP_AGE_CALCULATOR/static/js/main.a298510f.js",
+    "static/js/787.04baedd0.chunk.js": "/VIT_MERN_INTERNSHIP_AGE_CALCULATOR/static/js/787.04baedd0.chunk.js",
+    "index.html": "/VIT_MERN_INTERNSHIP_AGE_CALCULATOR/index.html",
+    "main.30ea52ad.css.map": "/VIT_MERN_INTERNSHIP_AGE_CALCULATOR/static/css/main.30ea52ad.css.map",
+    "main.a298510f.js.map": "/VIT_MERN_INTERNSHIP_AGE_CALCULATOR/static/js/main.a298510f.js.map",
+    "787.04baedd0.chunk.js.map": "/VIT_MERN_INTERNSHIP_AGE_CALCULATOR/static/js/787.04baedd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.a298510f.js"
+  ]
+}
